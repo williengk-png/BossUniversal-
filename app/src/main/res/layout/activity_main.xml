@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="16dp">
+<TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="BOSS UNIVERSAL V12 FINAL" android:textSize="22sp" android:gravity="center"/>
+<Button android:id="@+id/btnVpn" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="START VPN BLOCK" android:layout_marginTop="20dp"/>
+<Button android:id="@+id/btnAcc" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="ENABLE AUTO-SKIP" android:layout_marginTop="10dp"/>
+</LinearLayout>

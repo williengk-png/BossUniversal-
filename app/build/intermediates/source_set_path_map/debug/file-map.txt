@@ -1,0 +1,7 @@
+com.boss.universal.app-pngs-0 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/build/generated/res/pngs/debug
+com.boss.universal.app-resValues-1 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/build/generated/res/resValues/debug
+com.boss.universal.app-packageDebugResources-2 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.boss.universal.app-packageDebugResources-3 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.boss.universal.app-merged_res-4 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/build/intermediates/merged_res/debug
+com.boss.universal.app-debug-5 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/debug/res
+com.boss.universal.app-main-6 /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/res

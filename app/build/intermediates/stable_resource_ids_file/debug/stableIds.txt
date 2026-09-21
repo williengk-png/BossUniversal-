@@ -1,0 +1,7 @@
+com.boss.universal:string/app_name = 0x7f040001
+com.boss.universal:id/btnVpn = 0x7f010001
+com.boss.universal:string/accessibility_desc = 0x7f040000
+com.boss.universal:xml/accessibility_service_config = 0x7f050000
+com.boss.universal:layout/activity_main = 0x7f020000
+com.boss.universal:mipmap/ic_launcher = 0x7f030000
+com.boss.universal:id/btnAcc = 0x7f010000

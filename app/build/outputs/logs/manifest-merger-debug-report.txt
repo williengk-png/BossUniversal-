@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:2:1-62
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:2:18-60
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:3:1-72
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:3:18-70
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:4:1-72
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:4:18-70
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:5:1-84
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:5:18-82
+application
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:6:1-10:15
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:6:1-10:15
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:6:77-107
+	android:icon
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:6:42-76
+	android:allowBackup
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:6:14-41
+	android:theme
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:6:108-164
+activity#com.boss.universal.MainActivity
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:1-216
+	android:exported
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:40-63
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:11-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:64-205
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:79-130
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:87-128
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:130-189
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:7:140-187
+service#com.boss.universal.BlockVpnService
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:1-211
+	android:exported
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:99-122
+	android:permission
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:42-98
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:10-41
+intent-filter#action:name:android.net.VpnService
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:123-201
+action#android.net.VpnService
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:138-185
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:8:146-183
+service#com.boss.universal.AdBlockAccessibilityService
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:1-369
+	android:exported
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:121-144
+	android:permission
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:54-120
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:10-53
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:145-250
+action#android.accessibilityservice.AccessibilityService
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:160-234
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:168-232
+meta-data#android.accessibilityservice
+ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:250-359
+	android:resource
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:305-357
+	android:name
+		ADDED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml:9:261-304
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/BossUniversalAdBlockerFinal/app/src/main/AndroidManifest.xml

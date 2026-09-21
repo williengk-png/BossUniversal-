@@ -1,0 +1,21 @@
+plugins { id 'com.android.application' }
+android {
+ namespace 'com.boss.universal'
+ compileSdk 34
+ defaultConfig {
+  applicationId 'com.boss.universal'
+  minSdk 26
+  targetSdk 34
+  versionCode 12
+  versionName "12-Final-Universal"
+ }
+ buildTypes {
+  release { minifyEnabled false }
+  debug { minifyEnabled false }
+ }
+ compileOptions {
+  sourceCompatibility JavaVersion.VERSION_17
+  targetCompatibility JavaVersion.VERSION_17
+ }
+}
+dependencies {}
